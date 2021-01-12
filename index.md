@@ -24,7 +24,7 @@ MRM seeks to normalize map text as a new kind of data that can be used across th
 ### Partners
 - National Library of Scotland (NLS)
 - British Library (BL)
-- the Library of Congress (LC)
+- Library of Congress (LC)
  
 ### Publications
 
