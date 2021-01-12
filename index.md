@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the project website of Machines Reading Maps
 
 You can use the [editor on GitHub](https://github.com/machines-reading-maps/machines-reading-maps.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
