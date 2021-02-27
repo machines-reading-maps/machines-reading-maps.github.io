@@ -13,6 +13,9 @@ MRM seeks to normalize map text as a new kind of data that can be used across th
   - [Yao-Yi Chiang](https://yaoyichi.github.io/), [Spatial Computing Lab](https://spatial-computing.github.io/) (USC)
   - Zekun Li, [Spatial Computing Lab](https://spatial-computing.github.io/) (USC)
 
+- AT
+  - [Rainer Simon](https://rsimon.github.io/), [Data Science and Artificial Intelligence Group](https://www.ait.ac.at/themen/data-science) (AIT)
+
 - Advisory Board
 
 ### Target Map Collections
