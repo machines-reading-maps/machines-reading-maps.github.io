@@ -8,18 +8,28 @@ MRM seeks to normalize map text as a new kind of data that can be used across th
 ### People
 
 - UK
+  - [Katherine McDonough](https://www.turing.ac.uk/people/researchers/katherine-mcdonough), The Alan Turing Institute
+  - [Rainer Simon](https://rsimon.github.io/), Austrian Institute of Technology
 
 - US
   - [Yao-Yi Chiang](https://yaoyichi.github.io/), [Spatial Computing Lab](https://spatial-computing.github.io/) (USC)
   - Zekun Li, [Spatial Computing Lab](https://spatial-computing.github.io/) (USC)
 
 - Advisory Board
+  - Daniel van Strien, Living with Machines/British Library (co-chair)
+  - Gethin Rees, British Library (co-chair)
+  - Ruth Ahnert, Queen Mary, University of London/The Alan Turing Institute
+  - Nicole Coleman, Stanford University Libraries, Stanford University
+  - Hsiung-Ming Liao, Research Center for Humanities and Social Sciences at Academia Sinica
+  - Nathan Piekielek, The Pennsylvania State University
+  - Bert Spaan, Independent Researcher
+   
 
 ### Target Map Collections
-- Ordnance Survey historical map collections (the 1st and 2nd editions of the 25-inch to 1 mile sheets)
-- Sanborn fire insurance map collection 
-- Goad fire insurance map collection (19th- and early 20th-century)
-- King’s Topographical Collection (K.Top) (17th- to 19th-century)
+- National Library of Scotland and British Library Ordnance Survey historical map collections (the 1st and 2nd editions of the 6-inch and 25-inch to 1 mile sheets)
+- Library of Congress Sanborn fire insurance map collection 
+- British Library Goad fire insurance map collection (19th- and early 20th-century)
+- British Library King’s Topographical Collection (K.Top) (17th- to 19th-century)
 
 ### Partners
 - National Library of Scotland (NLS)
