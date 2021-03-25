@@ -4,7 +4,7 @@ Machines Reading Maps (MRM) is a collaborative project between the [Digital Libr
 
 MRM seeks to normalize map text as a new kind of data that can be used across the humanities and the heritage sector. To do so MRM will change the way that humanists and heritage professionals interact with digitised map images. Maps constitute a significant body of global cultural heritage, and they are being scanned at a rapid pace in the US and UK. However, most critical investigation of maps continues on a small scale, through close *readings* of a few maps. Individual maps communicate through visual grammars, supplemented by text. But text on maps, particularly in aggregate, is a nearly untapped source about the construction of knowledge about place (with the notable exception of the [GB1900 project](https://geo.nls.uk/maps/gb1900/), which crowdsourced transcriptions of all labels on the ca.1900 6-inch Ordnance Survey maps of Britain). While we speak colloquially about reading maps, MRM concretely addresses **how to make text on maps an accessible resource**. We will **make maps searchable and linked to other geospatial data and collections, creating the possibility for humanities research that uses map text as a primary source**. Spatial searching will no longer be limited by metadata fields like place of publication, but instead allows queries based on the labeled, spatial content of visual materials.
 
-We will publish code, datasets, and more on this website.
+We will share code, datasets, and more via this website.
 
 
 ### People
@@ -31,8 +31,8 @@ We will publish code, datasets, and more on this website.
   - Daniel C.S. Wilson, The Alan Turing Institute
 
 ### Contact Us and Learn More
-Get in touch! We are on Twitter [@readingmaps](https://twitter.com/ReadingMaps).
-[Project page at the Turing](https://www.turing.ac.uk/research/research-projects/machines-reading-maps).
+- Get in touch! We are on Twitter [@readingmaps](https://twitter.com/ReadingMaps).
+- [Project page at the Turing](https://www.turing.ac.uk/research/research-projects/machines-reading-maps).
 
 ### Target Map Collections
 - National Library of Scotland and British Library Ordnance Survey historical map collections (the 1st and 2nd editions of the 6-inch and 25-inch to 1 mile sheets)
