@@ -12,22 +12,27 @@ MRM seeks to normalize map text as a new kind of data that can be used across th
   - [Rainer Simon](https://rsimon.github.io/), Austrian Institute of Technology
 
 - US
-  - [Yao-Yi Chiang](https://yaoyichi.github.io/), [Spatial Computing Lab](https://spatial-computing.github.io/) (USC)
-  - Zekun Li, [Spatial Computing Lab](https://spatial-computing.github.io/) (USC)
+  - [Yao-Yi Chiang](https://yaoyichi.github.io/), [Spatial Computing Lab](https://spatial-computing.github.io/), USC
+  - Zekun Li, [Spatial Computing Lab](https://spatial-computing.github.io/), USC
+  - [Deborah Holmes-Wong](https://libraries.usc.edu/person/deborah-ann-holmes-wong), Digital Library, USC Libraries
 
 - Advisory Board
   - Daniel van Strien, Living with Machines/British Library (co-chair)
   - Gethin Rees, British Library (co-chair)
   - Ruth Ahnert, Queen Mary, University of London/The Alan Turing Institute
+  - Kaspar Beelen, The Alan Turing Institute
   - Nicole Coleman, Stanford University Libraries, Stanford University
+  - Kasra Hosseini, The Alan Turing Institute
   - Hsiung-Ming Liao, Research Center for Humanities and Social Sciences at Academia Sinica
   - Nathan Piekielek, The Pennsylvania State University
   - Bert Spaan, Independent Researcher
-   
+  - Daniel C.S. Wilson, The Alan Turing Institute
+
+
 
 ### Target Map Collections
 - National Library of Scotland and British Library Ordnance Survey historical map collections (the 1st and 2nd editions of the 6-inch and 25-inch to 1 mile sheets)
-- Library of Congress Sanborn fire insurance map collection 
+- Library of Congress Sanborn fire insurance map collection
 - British Library Goad fire insurance map collection (19th- and early 20th-century)
 - British Library King’s Topographical Collection (K.Top) (17th- to 19th-century)
 
@@ -35,6 +40,7 @@ MRM seeks to normalize map text as a new kind of data that can be used across th
 - National Library of Scotland (NLS)
 - British Library (BL)
 - Library of Congress (LC)
- 
-### Publications
 
+### Events
+
+### Publications
