@@ -184,7 +184,7 @@ dt {
       a {
         color: white;
         border: 1px solid #292929;
-        background: linear-gradient(#458144, #77b776);
+        background: linear-gradient(#77b776);
         border-radius: 2px;
         box-shadow: inset 0px 1px 0px rgba(255,255,255,.3), 0px 3px 7px rgba(0,0,0,.7);
 
@@ -197,7 +197,7 @@ dt {
         text-align:center;
 
         &:hover {
-          background: linear-gradient(#749619, #527f0e);
+          background: linear-gradient(#458144);
           background-color: #77b776;
           border: 1px solid #292929;
           box-shadow: inset 0px 1px 1px rgba(0,0,0,.2), 0px 1px 0px rgba(0,0,0,.0);
