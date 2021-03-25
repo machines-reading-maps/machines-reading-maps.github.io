@@ -31,8 +31,8 @@ We will share code, datasets, and more via this website.
   - Daniel C.S. Wilson, The Alan Turing Institute
 
 ### Contact Us and Learn More
-- Get in touch! We are on Twitter [@readingmaps](https://twitter.com/ReadingMaps).
-- [Project page at the Turing](https://www.turing.ac.uk/research/research-projects/machines-reading-maps).
+- Get in touch! We are on Twitter [@readingmaps](https://twitter.com/ReadingMaps)
+- [Project page at the Turing](https://www.turing.ac.uk/research/research-projects/machines-reading-maps)
 
 ### Target Map Collections
 - National Library of Scotland and British Library Ordnance Survey historical map collections (the 1st and 2nd editions of the 6-inch and 25-inch to 1 mile sheets)
