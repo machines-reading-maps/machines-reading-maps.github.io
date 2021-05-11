@@ -57,6 +57,5 @@ We will share code, datasets, and more via this website.
 - Library of Congress (LC)
 
 ### Events
-{% include youtubePlayer.html id=page.youtubeId %}
-
+- [UCGIS Webinar (5/4/2021)](https://youtu.be/F45jgjbhoIY)
 ### Publications
