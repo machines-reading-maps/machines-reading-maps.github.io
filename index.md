@@ -22,9 +22,6 @@ We will share code, datasets, and more via this website.
   - Zekun Li, [Spatial Computing Lab](https://spatial-computing.github.io/), USC
   - [Deborah Holmes-Wong](https://libraries.usc.edu/person/deborah-ann-holmes-wong), Digital Library, USC Libraries
 
-- AT
-  - [Rainer Simon](https://rsimon.github.io/), [Data Science and Artificial Intelligence Group](https://www.ait.ac.at/themen/data-science) (AIT)
-
 - Advisory Board
   - Daniel van Strien, British Library (co-chair)
   - Gethin Rees, British Library (co-chair)
