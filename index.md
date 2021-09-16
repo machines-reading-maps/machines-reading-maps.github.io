@@ -16,6 +16,7 @@ We will share code, datasets, and more via this website.
 - UK
   - [Katherine McDonough](https://www.turing.ac.uk/people/researchers/katherine-mcdonough), The Alan Turing Institute
   - [Rainer Simon](https://rsimon.github.io/), Austrian Institute of Technology
+  - [Valeria Vitale](https://www.turing.ac.uk/people/research-associates/valeria-vitale), The Alan Turing Institute
 
 - US
   - [Yao-Yi Chiang](https://yaoyichi.github.io/), [Spatial Computing Lab](https://spatial-computing.github.io/), USC
