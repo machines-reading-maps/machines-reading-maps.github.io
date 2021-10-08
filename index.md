@@ -41,6 +41,7 @@ We will share code, datasets, and more via this website.
 
 ### Newsletter
 - [10/8/2021](https://github.com/machines-reading-maps/Tutorials-Newsletters/blob/main/Newsletter_2021_10.pdf)
+
 ### Contact Us and Learn More
 - Get in touch! We are on Twitter [@readingmaps](https://twitter.com/ReadingMaps)
 - [Project page at the Turing](https://www.turing.ac.uk/research/research-projects/machines-reading-maps)
