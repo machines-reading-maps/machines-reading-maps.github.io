@@ -4,7 +4,7 @@ youtubeId: F45jgjbhoIY
 
 ## Machines Reading Maps
 
-Machines Reading Maps (MRM) is a collaborative project between the [Digital Library](http://digitallibrary.usc.edu/) and [Spatial Sciences Institute](https://spatial.usc.edu/) at [the University of Southern California](https://www.usc.edu/) (US)and [the Alan Turing Institute](https://www.turing.ac.uk/) (UK). The project is funded by the United States' [National Endowment for the Humanities](https://www.neh.gov/) (NEH) and the United Kingdom’s [Arts and Humanities Research Council](https://ahrc.ukri.org/) (AHRC) under the first round of [NEH/AHRC New Directions for Digital Scholarship](https://www.neh.gov/news/neh-and-uk-arts-and-humanities-research-council-announce-grants-support-digital-innovation).
+Machines Reading Maps (MRM) is a collaborative project between the [Digital Library](http://digitallibrary.usc.edu/) and [Computer Science & Engineering Department](https://cse.umn.edu/cs) at [the University of Minnesota](https://www.umn.edu/) (US)and [the Alan Turing Institute](https://www.turing.ac.uk/) (UK). The project is funded by the United States' [National Endowment for the Humanities](https://www.neh.gov/) (NEH) and the United Kingdom’s [Arts and Humanities Research Council](https://ahrc.ukri.org/) (AHRC) under the first round of [NEH/AHRC New Directions for Digital Scholarship](https://www.neh.gov/news/neh-and-uk-arts-and-humanities-research-council-announce-grants-support-digital-innovation).
 
 MRM seeks to normalize map text as a new kind of data that can be used across the humanities and the heritage sector. To do so MRM will change the way that humanists and heritage professionals interact with digitised map images. Maps constitute a significant body of global cultural heritage, and they are being scanned at a rapid pace in the US and UK. However, most critical investigation of maps continues on a small scale, through close *readings* of a few maps. Individual maps communicate through visual grammars, supplemented by text. But text on maps, particularly in aggregate, is a nearly untapped source about the construction of knowledge about place (with the notable exception of the [GB1900 project](https://geo.nls.uk/maps/gb1900/), which crowdsourced transcriptions of all labels on the ca.1900 6-inch Ordnance Survey maps of Britain). While we speak colloquially about reading maps, MRM concretely addresses **how to make text on maps an accessible resource**. We will **make maps searchable and linked to other geospatial data and collections, creating the possibility for humanities research that uses map text as a primary source**. Spatial searching will no longer be limited by metadata fields like place of publication, but instead allows queries based on the labeled, spatial content of visual materials.
 
@@ -19,8 +19,8 @@ We will share code, datasets, and more via this website.
   - [Valeria Vitale](https://www.turing.ac.uk/people/research-associates/valeria-vitale), The Alan Turing Institute
 
 - US
-  - [Yao-Yi Chiang](https://yaoyichi.github.io/), [Spatial Computing Lab](https://spatial-computing.github.io/), USC
-  - Zekun Li, [Spatial Computing Lab](https://spatial-computing.github.io/), USC
+  - [Yao-Yi Chiang](https://yaoyichi.github.io/), [Knowledge Computing Lab](https://knowledge-computing.github.io/), UMN
+  - Zekun Li, [Knowledge Computing Lab](https://knowledge-computing.github.io/), UMN
   - [Deborah Holmes-Wong](https://libraries.usc.edu/person/deborah-ann-holmes-wong), Digital Library, USC Libraries
 
 - Advisory Board
@@ -39,6 +39,8 @@ We will share code, datasets, and more via this website.
   - Bert Spaan, Independent Researcher
   - Daniel C.S. Wilson, The Alan Turing Institute
 
+### Newsletter
+- [10/8/2021](https://github.com/machines-reading-maps/Tutorials-Newsletters/blob/main/Newsletter_2021_10.pdf)
 ### Contact Us and Learn More
 - Get in touch! We are on Twitter [@readingmaps](https://twitter.com/ReadingMaps)
 - [Project page at the Turing](https://www.turing.ac.uk/research/research-projects/machines-reading-maps)
