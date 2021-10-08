@@ -22,6 +22,7 @@ We will share code, datasets, and more via this website.
   - [Yao-Yi Chiang](https://yaoyichi.github.io/), [Knowledge Computing Lab](https://knowledge-computing.github.io/), UMN
   - Zekun Li, [Knowledge Computing Lab](https://knowledge-computing.github.io/), UMN
   - [Deborah Holmes-Wong](https://libraries.usc.edu/person/deborah-ann-holmes-wong), Digital Library, USC Libraries
+  - [Jina Kim](https://jina-kim.github.io/), [Knowledge Computing Lab](https://knowledge-computing.github.io/), UMN
 
 - Advisory Board
   - Daniel van Strien, British Library (co-chair)
