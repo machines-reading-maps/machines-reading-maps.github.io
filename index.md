@@ -20,7 +20,7 @@ We will share code, datasets, and more via this website.
 
 - US
   - [Yao-Yi Chiang](https://yaoyichi.github.io/), [Knowledge Computing Lab](https://knowledge-computing.github.io/), UMN
-  - Zekun Li, [Knowledge Computing Lab](https://knowledge-computing.github.io/), UMN
+  - [Zekun Li](https://zekun-li.github.io/), [Knowledge Computing Lab](https://knowledge-computing.github.io/), UMN
   - [Jina Kim](https://jina-kim.github.io/), [Knowledge Computing Lab](https://knowledge-computing.github.io/), UMN
   - [Deborah Holmes-Wong](https://libraries.usc.edu/person/deborah-ann-holmes-wong), Digital Library, USC Libraries
  
