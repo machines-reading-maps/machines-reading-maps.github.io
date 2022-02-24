@@ -70,6 +70,7 @@ We will share code, datasets, and more via this website.
 - [Public collaborative annotation event](https://maps_transcription_nls.mailchimpsites.com/), in partnership with the National Library of Scotland, to create an historical gazetteer of the city of Edinburgh in 19th century (April 2022)
 
 ### Publications
+- Li, Zekun, Runyu Guan, Qianmu Yu, Yao-Yi Chiang, and Craig A. Knoblock. "Synthetic Map Generation to Provide Unlimited Training Data for Historical Map Text Detection." In Proceedings of the 4th ACM SIGSPATIAL International Workshop on AI for Geographic Knowledge Discovery, pp. 17-26. 2021.
 
 ### Blogposts
 - [Maps with a sense of the past: what are synthetic maps and why do we love them?](https://blog.nls.uk/maps-with-a-sense-of-the-past/) on the National Library of Scotland blog.
