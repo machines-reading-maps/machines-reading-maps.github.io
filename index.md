@@ -60,14 +60,15 @@ We will share code, datasets, and more via this website.
 - Library of Congress (LC)
 
 ### Events
-- Presentation on SIGSPATIAL GeoAI(11/02/2021): [Slides](https://drive.google.com/file/d/1UNbRVB47KzjqCGvxaDWhofJVbOsgxMwD/view?usp=sharing) [Video](https://drive.google.com/file/d/1WeFO7hBXWHOuuwtgbDhd6OTONz2RDH77/view?usp=sharing)
 - [UCGIS Webinar (5/4/2021)](https://youtu.be/F45jgjbhoIY)
 - Annotation workshop (beta) (12/10/2021) 17 participants from UK, Ireland and the Neatherlands.
 - Annotation Workshop (beta) (18/10/2021). 8 participants from the US
 - [Annotation workshop](https://github.com/machines-reading-maps/Tutorials-Newsletters/blob/main/LinkedPasts_Workshop/welcome.md) (15/12/2021), in collaboration with OS200 and part of the Linked Pasts VII Symposium. 40 international participants
 - MRM Roundtable, (16/12/2021) in collaboration with OS200 and part of the Linked Pasts VII Symposium. 20 international participants
+- Keynote for Linked Pasts VII (17/12/2021)
 - Demo for the David Rumsey Map Collection (11/01/2022)
 - Annotation workshop for the OS200 team (date tba)
+- [Geo4Lib Camp](https://geo4libcamp.github.io/program/) (02/02/2022)
 - [Public collaborative annotation event](https://maps_transcription_nls.mailchimpsites.com/), in partnership with the National Library of Scotland, to create an historical gazetteer of the city of Edinburgh in 19th century (April 2022)
 
 ### Publications
@@ -79,3 +80,6 @@ We will share code, datasets, and more via this website.
 ### Publicly Available Code
 - [mapKurator](https://github.com/machines-reading-maps/map-kurator)
 - [Entity Recommendation API](https://github.com/machines-reading-maps/entity-recommendation-api)
+
+### Tutorials
+- [MRM annotation platform Wiki](https://github.com/machines-reading-maps/Tutorials-Newsletters/wiki)
