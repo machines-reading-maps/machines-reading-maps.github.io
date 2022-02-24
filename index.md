@@ -52,7 +52,6 @@ We will share code, datasets, and more via this website.
 - National Library of Scotland and British Library Ordnance Survey historical map collections (the 1st and 2nd editions of the 6-inch and 25-inch to 1 mile sheets)
 - Library of Congress Sanborn fire insurance map collection
 - British Library Goad fire insurance map collection (19th- and early 20th-century)
-- British Library King’s Topographical Collection (K.Top) (17th- to 19th-century)
 
 ### Cultural Heritage Partners
 - National Library of Scotland (NLS)
