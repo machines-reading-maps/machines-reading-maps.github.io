@@ -60,6 +60,7 @@ We will share code, datasets, and more via this website.
 - Library of Congress (LC)
 
 ### Events
+- Presentation on SIGSPATIAL GeoAI(11/02/2021): [Slides](https://drive.google.com/file/d/1UNbRVB47KzjqCGvxaDWhofJVbOsgxMwD/view?usp=sharing) [Video](https://drive.google.com/file/d/1WeFO7hBXWHOuuwtgbDhd6OTONz2RDH77/view?usp=sharing)
 - [UCGIS Webinar (5/4/2021)](https://youtu.be/F45jgjbhoIY)
 - Annotation workshop (beta) (12/10/2021) 17 participants from UK, Ireland and the Neatherlands.
 - Annotation Workshop (beta) (18/10/2021). 8 participants from the US
