@@ -73,3 +73,6 @@ We will share code, datasets, and more via this website.
 
 ### Blogposts
 - [Maps with a sense of the past: what are synthetic maps and why do we love them?](https://blog.nls.uk/maps-with-a-sense-of-the-past/) on the National Library of Scotland blog.
+
+### Products
+- Github repo for map-kurator text detection: https://github.com/machines-reading-maps/map-kurator
