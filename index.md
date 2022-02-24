@@ -66,6 +66,7 @@ We will share code, datasets, and more via this website.
 - MRM Roundtable, (16/12/2021) in collaboration with OS200 and part of the Linked Pasts VII Symposium. 20 international participants
 - Keynote for Linked Pasts VII (17/12/2021)
 - Demo for the David Rumsey Map Collection (11/01/2022)
+- Presentation on SIGSPATIAL GeoAI(02/11/2021): [Slides](https://drive.google.com/file/d/1UNbRVB47KzjqCGvxaDWhofJVbOsgxMwD/view?usp=sharing) [Video](https://drive.google.com/file/d/1WeFO7hBXWHOuuwtgbDhd6OTONz2RDH77/view?usp=sharing)
 - Annotation workshop for the OS200 team (date tba)
 - [Geo4Lib Camp](https://geo4libcamp.github.io/program/) (02/02/2022)
 - [Public collaborative annotation event](https://maps_transcription_nls.mailchimpsites.com/), in partnership with the National Library of Scotland, to create an historical gazetteer of the city of Edinburgh in 19th century (April 2022)
