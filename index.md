@@ -79,7 +79,7 @@ We will share code, datasets, and more via this website.
 
 ### Publicly Available Code
 - [mapKurator](https://github.com/machines-reading-maps/map-kurator)
-- [Entity Recommendation API](https://github.com/machines-reading-maps/entity-recommendation-api)
+- [Semantic Type Recommendation API](https://github.com/machines-reading-maps/entity-recommendation-api)
 
 ### Tutorials
 - [MRM annotation platform Wiki](https://github.com/machines-reading-maps/Tutorials-Newsletters/wiki)
