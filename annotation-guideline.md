@@ -3,7 +3,9 @@ layout: guideline
 ---
 
 These guidelines provide the three different types of information that should be annotated for our gold standards. We will use gold standards to test and evaluate our machine learning pipeline, mapKurator, which aims to detect and recognize texts on map images automatically, and link entities in external knowledge bases.
-The three steps include 1) creating bounding boxes, 2) transcribing the text, and 3) linking to external knowledge bases. We encourage annotators to go through and follow our annotation guidelines for generating high-quality gold standards. 
+
+The annotation procedure includes the following three steps: 1) creating bounding boxes, 2) transcribing the text, and 3) linking to external knowledge bases. We encourage annotators to go through and follow our annotation guidelines for generating high-quality gold standards. 
+
 
 ## 1. Creating bounding boxes
 
@@ -17,8 +19,6 @@ You can use a mix of bounding boxes and bounding polygons for annotation by foll
 If the spacing between words or characters is larger than the font size, annotate each character instead of the whole word/phrase and group them. Please use your judgment for determining appropriate choice. 
 
 (Sample images in incorrect or correct way)
-
-
 
 ## 2. Transcribing the text
 
