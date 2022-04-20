@@ -6,6 +6,7 @@ These guidelines provide the three different types of information that should be
 
 We encourage annotators to go through and follow our annotation guidelines for generating high-quality gold standards. We will use gold standards to test and evaluate our end-to-end machine learning pipeline, mapKurator, which aims to detect and recognize texts on map images, and link entities in external knowledge bases.
 
+If you have questions or suggestions on our annotation guidelines, please get in touch with us emailing Valeria Vitale ([vvitale@turing.ac.uk](mailto:vvitale@turing.ac.uk)) or Jina Kim ([kim01479@umn.edu](mailto:kim01479@umn.edu)).
 
 ## 1. Creating bounding boxes
 
