@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a5327cee-331c-4345-901c-6045edd45c19" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_layouts/guideline.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/guideline/text-annotation.html" beforeDir="false" afterPath="$PROJECT_DIR$/guideline/text-annotation.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
