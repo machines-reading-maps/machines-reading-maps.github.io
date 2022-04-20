@@ -9,10 +9,11 @@ The annotation procedure includes the following three steps: 1) creating boundin
 
 ## 1. Creating bounding boxes
 
-You can use a mix of bounding boxes and bounding polygons for annotation by following the straightforward form.
+You can use a mix of bounding boxes and bounding polygons for annotation based on the choices below. Note that the bounding boxes should stay in a simple form.
 - First choice: axis-aligned bounding box (horizontal/vertical text labels) 
 - Second choice: rotated bounding box (rotated text labels)
 - Third choice: bounding polygon (curved text labels, e.g., river name)
+
 
 (GIF image of Recogito interface)
 
