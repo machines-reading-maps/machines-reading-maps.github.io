@@ -1,9 +1,9 @@
-#title > h1 {
+h1{
     font-weight: bold;
     line-height: 50px;
 }
 
-#title > h1 {
+#title{
     margin: 0px;
 }
 
