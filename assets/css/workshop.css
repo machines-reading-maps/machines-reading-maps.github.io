@@ -1,0 +1,38 @@
+.workshop_title{
+    font-size: 230%;
+    font-weight: bold;
+    text-align: center;
+    text-transform: none;
+}
+
+.author{
+  width: 180px;
+  display: inline-block;
+}
+
+.authors{
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.affiliations{
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.author_img {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    margin-bottom: 10px;
+}
+
+footer {
+    margin-bottom: 10px;
+    font-size: 10pt;
+}
