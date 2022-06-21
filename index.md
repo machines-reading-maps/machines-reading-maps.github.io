@@ -40,13 +40,13 @@ We will share code, datasets, and more via this website.
   - Nathan Piekielek, The Pennsylvania State University
   - Bert Spaan, Independent Researcher
   - Daniel C.S. Wilson, The Alan Turing Institute
-
-### Newsletter
-- [10/8/2021](https://github.com/machines-reading-maps/Tutorials-Newsletters/blob/main/Newsletter_2021_10.pdf)
-
+  
 ### Contact Us and Learn More
 - Get in touch! We are on Twitter [@readingmaps](https://twitter.com/ReadingMaps)
 - [Project page at the Turing](https://www.turing.ac.uk/research/research-projects/machines-reading-maps)
+
+### Newsletter
+- [Oct. 8, 2021] Project Newsletter [[PDF file]](https://github.com/machines-reading-maps/Tutorials-Newsletters/blob/main/Newsletter_2021_10.pdf)
 
 ### Target Map Collections
 - National Library of Scotland and British Library Ordnance Survey historical map collections (the 1st and 2nd editions of the 6-inch and 25-inch to 1 mile sheets)
@@ -59,27 +59,31 @@ We will share code, datasets, and more via this website.
 - Library of Congress (LC)
 
 ### Events
-- [UCGIS Webinar (5/4/2021)](https://youtu.be/F45jgjbhoIY)
-- Annotation workshop (beta) (12/10/2021) 17 participants from UK, Ireland and the Neatherlands.
-- Annotation Workshop (beta) (18/10/2021). 8 participants from the US
-- [Annotation workshop](https://github.com/machines-reading-maps/Tutorials-Newsletters/blob/main/LinkedPasts_Workshop/welcome.md) (15/12/2021), in collaboration with OS200 and part of the Linked Pasts VII Symposium. 40 international participants
-- MRM Roundtable, (16/12/2021) in collaboration with OS200 and part of the Linked Pasts VII Symposium. 20 international participants
-- Keynote for Linked Pasts VII (17/12/2021)
-- Demo for the David Rumsey Map Collection (11/01/2022)
-- Presentation on SIGSPATIAL GeoAI(02/11/2021): [Slides](https://drive.google.com/file/d/1UNbRVB47KzjqCGvxaDWhofJVbOsgxMwD/view?usp=sharing) [Video](https://drive.google.com/file/d/1WeFO7hBXWHOuuwtgbDhd6OTONz2RDH77/view?usp=sharing)
-- Annotation workshop for the OS200 team (date tba)
-- [Geo4Lib Camp](https://geo4libcamp.github.io/program/) (02/02/2022)
-- [Public collaborative annotation event](https://maps_transcription_nls.mailchimpsites.com/), in partnership with the National Library of Scotland, to create an historical gazetteer of the city of Edinburgh in 19th century (April 2022)
+- [TBA] Public event in partnership with the Library of Congress @ Washington D.C.
+- [TBA] Annotation workshop for the OS200 team
+- [June 6, 2022] 'Reading and Linking Place: Text on Historical Maps' workshop @ UCGIS Symposium 2022 [[Webpage]](https://machines-reading-maps.github.io/ucgis2022-workshop) [[Slides]](https://drive.google.com/file/d/1CWNIdYTRl8SoVU5fyLswTETDPX_kqQrq/view?usp=sharing)  
+- [Apr., 2022] Public collaborative annotation event in partnership with the National Library of Scotland, to create an historical gazetteer of the city of Edinburgh in 19th century [[Webpage]](https://maps_transcription_nls.mailchimpsites.com/)
+- [Feb. 2, 2022] Geo4Lib Camp [[Webpage]](https://geo4libcamp.github.io/program/)
+- [Jan. 1, 2022] Demo for the David Rumsey Map Collection
+- [Dec. 17, 2021] Keynote for Linked Pasts VII
+- [Dec. 16, 2021] MRM Roundtable in collaboration with OS200 and part of the Linked Pasts VII Symposium. 20 international participants
+- [Dec. 15, 2021] Annotation workshop in collaboration with OS200 and part of the Linked Pasts VII Symposium. 40 international participants [[Webpage]](https://github.com/machines-reading-maps/Tutorials-Newsletters/blob/main/LinkedPasts_Workshop/welcome.md) 
+- [Nov. 2, 2021] Presentation on GeoAI Workshop @SIGSPATIAL '21 [[Slides]](https://drive.google.com/file/d/1UNbRVB47KzjqCGvxaDWhofJVbOsgxMwD/view?usp=sharing) [[Video]](https://drive.google.com/file/d/1WeFO7hBXWHOuuwtgbDhd6OTONz2RDH77/view?usp=sharing)
+- [Oct. 18, 2021] Annotation Workshop (beta) 8 participants from the US
+- [Oct. 10, 2021] Annotation workshop (beta) 17 participants from UK, Ireland and the Neatherlands
+- [May 4, 2021] UCGIS Webinar [[Video]](https://youtu.be/F45jgjbhoIY)
+- [May 4, 2021] UCGIS Webinar [[Video]](https://youtu.be/F45jgjbhoIY)
+
 
 ### Publications
-- Li, Zekun, Runyu Guan, Qianmu Yu, Yao-Yi Chiang, and Craig A. Knoblock. "Synthetic Map Generation to Provide Unlimited Training Data for Historical Map Text Detection." In Proceedings of the 4th ACM SIGSPATIAL International Workshop on AI for Geographic Knowledge Discovery, pp. 17-26. 2021.
+- Zekun Li, Runyu Guan, Qianmu Yu, Yao-Yi Chiang, and Craig A. Knoblock. (2021, November). [Synthetic Map Generation to Provide Unlimited Training Data for Historical Map Text Detection.](https://zekun-li.github.io/files/GEOAI_2021.pdf) In *Proceedings of the 4th ACM SIGSPATIAL International Workshop on AI for Geographic Knowledge Discovery* (pp. 17-26).
 
 ### Blogposts
 - [Maps with a sense of the past: what are synthetic maps and why do we love them?](https://blog.nls.uk/maps-with-a-sense-of-the-past/) on the National Library of Scotland blog.
 
 ### Publicly Available Code
-- [mapKurator](https://github.com/machines-reading-maps/map-kurator)
-- [Semantic Type Recommendation API](https://github.com/machines-reading-maps/entity-recommendation-api)
+- mapKurator [[GitHub Repository]](https://github.com/machines-reading-maps/map-kurator)
+- Semantic type recommendation API [[GitHub Repository]](https://github.com/machines-reading-maps/entity-recommendation-api)
 
 ### Tutorials
-- [MRM annotation platform Wiki](https://github.com/machines-reading-maps/Tutorials-Newsletters/wiki)
+- MRM annotation platform Wiki [[GitHub Wiki]](https://github.com/machines-reading-maps/Tutorials-Newsletters/wiki)
