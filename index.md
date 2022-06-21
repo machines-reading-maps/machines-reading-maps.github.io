@@ -72,7 +72,6 @@ We will share code, datasets, and more via this website.
 - [Oct. 18, 2021] Annotation Workshop (beta) 8 participants from the US
 - [Oct. 10, 2021] Annotation workshop (beta) 17 participants from UK, Ireland and the Neatherlands
 - [May 4, 2021] UCGIS Webinar [[Video]](https://youtu.be/F45jgjbhoIY)
-- [May 4, 2021] UCGIS Webinar [[Video]](https://youtu.be/F45jgjbhoIY)
 
 
 ### Publications
