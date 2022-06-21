@@ -61,7 +61,7 @@ We will share code, datasets, and more via this website.
 ### Events
 - [TBA] Public event in partnership with the Library of Congress @ Washington D.C.
 - [TBA] Annotation workshop for the OS200 team
-- [June 6, 2022] 'Reading and Linking Place: Text on Historical Maps' workshop @ UCGIS Symposium 2022 [[Webpage]](https://machines-reading-maps.github.io/ucgis2022-workshop) [[Slides]](https://drive.google.com/file/d/1CWNIdYTRl8SoVU5fyLswTETDPX_kqQrq/view?usp=sharing)  
+- [June 6, 2022] 'Reading and Linking Place: Text on Historical Maps' workshop @ UCGIS Symposium '22 [[Webpage]](https://machines-reading-maps.github.io/ucgis2022-workshop) [[Slides]](https://drive.google.com/file/d/1CWNIdYTRl8SoVU5fyLswTETDPX_kqQrq/view?usp=sharing)  
 - [Apr., 2022] Public collaborative annotation event in partnership with the National Library of Scotland, to create an historical gazetteer of the city of Edinburgh in 19th century [[Webpage]](https://maps_transcription_nls.mailchimpsites.com/)
 - [Feb. 2, 2022] Geo4Lib Camp [[Webpage]](https://geo4libcamp.github.io/program/)
 - [Jan. 1, 2022] Demo for the David Rumsey Map Collection
