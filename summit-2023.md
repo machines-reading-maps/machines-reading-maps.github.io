@@ -1,6 +1,7 @@
 # Machines Reading Maps Summit! April 20-21, 2023
+The Machines Reading Maps team will come together at Stanford University for two days of conference events dedicated to charting the future of historical cartography as data. Events will take place (as specified below) at the David Rumsey Map Center within Green Library and at the Center for Spatial and Textual Analysis (CESTA) on the 4th Floor of Wallenberg Hall. 
 
-###  9AM-12PM PT Thursday, April 20, Demo for Developers and Stakeholders (Invitation only)
+##  9AM-12PM PT Thursday, April 20, Demo for Developers and Stakeholders (Invitation only)
 At the David Rumsey Map Center, Stanford Libaries
 This session will introduce different components of the work to potential future stakeholders and developer community members who are interested in re-using these tools in other map collections or for research applications across collections.
 
@@ -21,7 +22,7 @@ Break - refreshments will be served in the Bender Room at Stanford Libraries
 
 ### Lunch
 
-### 1PM-4PM PT Thursday, April 20, Presentation of Machines Reading Maps (open to the public)
+## 1PM-4PM PT Thursday, April 20, Presentation of Machines Reading Maps (open to the public)
 **At the David Rumsey Map Center, Stanford Libaries**
 This conference, intended for future users, will address the methods behind the data creation and UX as well as the impact the new search and data access will have on research.
 
@@ -43,7 +44,7 @@ Break - refreshments will be served in the Bender Room at Stanford Libraries
    - Nora Barakat (History) 
    - Grant Parker (Classics)
 
-### 9AM-12PM PT, Friday, April 21, Building a Developer Community (Invitation only)
+## 9AM-12PM PT, Friday, April 21, Building a Developer Community (Invitation only)
 **At the David Rumsey Map Center, Stanford Libaries**
 The purpose of this session is to identify opportunities and friction points while sketching out the future of an open source project building on the foundations of Machines Reading Maps.
 
@@ -67,7 +68,7 @@ The purpose of this session is to identify opportunities and friction points whi
    - Working with institutions that all have different systems
    - is scope ONLY text, or also other map features (linked to text)
 
-### 1PM-4PM PT, Friday, April 21, Machines Reading Maps Hands-On Workshop (Registration required, in-person only)
+## 1PM-4PM PT, Friday, April 21, Machines Reading Maps Hands-On Workshop (Registration required, in-person only)
 **At the Center for Spatial and Textual Analysis Conference Room, 4th Floor, Wallenberg Hall**
 Search within maps! Visualize and analyze data automatically identified on maps! This hands-on workshop, led by MRM team members, presents the new, experimental features developed by the Machines Reading Maps (MRM) project for the David Rumsey Map Collection (DRMC).
 
