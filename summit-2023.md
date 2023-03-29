@@ -6,12 +6,12 @@
 David Rumsey Map Center, Stanford Libaries (refreshments will be served in the Bender Room)
 This session will introduce different components of the work to potential future stakeholders and developer community members who are interested in re-using these tools in other map collections or for research applications across collections.
 
-#### 9:00 - 10:00
-Chair: TBD
-  Introduction by David Rumsey
-  Demo of search & annotation by Valeria Vitale & David Wong
-  Why does this matter? by Stace Maples
-  A history of the project by Katie McDonough
+- #### 9:00 - 10:00
+- Chair: TBD
+   - Introduction by David Rumsey
+   - Demo of search & annotation by Valeria Vitale & David Wong
+   - Why does this matter? by Stace Maples
+   - A history of the project by Katie McDonough
 
 Break - refreshments will be served in the Bender Room at Stanford Libraries
 
