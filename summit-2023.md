@@ -11,7 +11,7 @@ This session will introduce different components of the work to potential future
    - Why does this matter? by Stace Maples
    - A history of the project by Katie McDonough
 
-Break - refreshments will be served in the Bender Room at Stanford Libraries
+~ Break - refreshments will be served in the Bender Room at Stanford Libraries ~ 
 
 #### 10:30 - 12:00
 - Chair: Nicole Coleman
@@ -20,7 +20,7 @@ Break - refreshments will be served in the Bender Room at Stanford Libraries
    - Implementing Search
    - Next Steps (Community, Generalization, etc…)
 
-### Lunch Break
+### ~ Lunch Break ~
 
 ### 1PM-4PM PT Thursday, April 20, Presentation of Machines Reading Maps (open to the public)
 **At the David Rumsey Map Center, Stanford Libaries**
@@ -34,7 +34,7 @@ This conference, intended for future users, will address the methods behind the 
    - Valeria Vitale, “Discovering and enriching maps through their text”
    - Katie McDonough, “Using Text on Maps for Research” 
 
-Break - refreshments will be served in the Bender Room at Stanford Libraries
+~ Break - refreshments will be served in the Bender Room at Stanford Libraries ~ 
 
 #### Panel 2, Text on Maps: What does it mean for research?
 - Chair: Julie Sweetkind Singer
@@ -68,7 +68,9 @@ The purpose of this session is to identify opportunities and friction points whi
    - Working with institutions that all have different systems
    - is scope ONLY text, or also other map features (linked to text)
 
-## 1PM-4PM PT Friday, April 21, Machines Reading Maps Hands-On Workshop (Registration required, in-person only)
+### ~ Lunch Break ~
+
+### 1PM-4PM PT Friday, April 21, Machines Reading Maps Hands-On Workshop (Registration required, in-person only)
 **At the Center for Spatial and Textual Analysis Conference Room, 4th Floor, Wallenberg Hall**
 Search within maps! Visualize and analyze data automatically identified on maps! This hands-on workshop, led by MRM team members, presents the new, experimental features developed by the Machines Reading Maps (MRM) project for the David Rumsey Map Collection (DRMC).
 
