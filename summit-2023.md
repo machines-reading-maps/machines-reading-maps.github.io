@@ -2,13 +2,12 @@
 ## At the David Rumsey Map Center and CESTA at Stanford University
 ## April 20-21, 2023
 
-### Thursday 9AM-12PM Demo for Developers and Stakeholders (Invitation only)
-David Rumsey Map Center, Stanford Libaries (refreshments will be served in the Bender Room)
+###  9AM-12PM Thursday, April 20, Demo for Developers and Stakeholders (Invitation only)
+At the David Rumsey Map Center, Stanford Libaries
 This session will introduce different components of the work to potential future stakeholders and developer community members who are interested in re-using these tools in other map collections or for research applications across collections.
 
-- #### 9:00 - 10:00
-- Chair: TBD
-   - Introduction by David Rumsey
+#### 9:00 - 10:00
+- Chair: David Rumsey
    - Demo of search & annotation by Valeria Vitale & David Wong
    - Why does this matter? by Stace Maples
    - A history of the project by Katie McDonough
@@ -16,69 +15,74 @@ This session will introduce different components of the work to potential future
 Break - refreshments will be served in the Bender Room at Stanford Libraries
 
 #### 10:30 - 12:00
-Chair: TBD
-  System and pipeline / Codebase Briefing (Yao-yi)
-  Annotations (Rainer + Valeria on value of annotations)
-  Implementing Search
-  Next Steps (Community, Generalization, etc…)
+- Chair: Nicole Coleman
+   - System and pipeline / Codebase Briefing (Yao-yi)
+   - Annotations (Rainer + Valeria on value of annotations)
+   - Implementing Search
+   - Next Steps (Community, Generalization, etc…)
 
-Lunch
+### Lunch
 
-### Thursday 1PM-4PM Public Presentation of Machines Reading Maps 
-David Rumsey Map Center, Stanford Libaries
+### 1PM-4PM Thursday, April 20 Presentation of Machines Reading Maps (open to the public)
+At the David Rumsey Map Center, Stanford Libaries
 This conference, intended for future users, will address the methods behind the data creation and UX as well as the impact the new search and data access will have on research.
 
 #### Panel 1, From Maps to Data and Back Again
-Chair: TBD
-[10 min] David Rumsey intro
-[20 min] Jina Kim, “The mapKurator System: Extracting and Linking Text from Large Numbers of Historical Map Scans”
-[15 min] Drake Zabriskie and David Wong, “LUNA Annotation Search and Display”
-[15 min] Rainer Simon, "Map Annotation Overlay and Crowdsourced Corrections with Annotorious & LUNA"
-[10 min] Valeria Vitale, “Discovering and enriching maps through their text”
-[20 min] Katie McDonough, “Using Text on Maps for Research” 
+- Chair: David Rumsey
+   - Jina Kim, “The mapKurator System: Extracting and Linking Text from Large Numbers of Historical Map Scans”
+   - Drake Zabriskie and David Wong, “LUNA Annotation Search and Display”
+   - Rainer Simon, "Map Annotation Overlay and Crowdsourced Corrections with Annotorious & LUNA"
+   - Valeria Vitale, “Discovering and enriching maps through their text”
+   - Katie McDonough, “Using Text on Maps for Research” 
 
-Break - refreshments will be served in the Bender Room at Stanford Libraries
+### Break, Refreshments will be served in the Bender Room at Stanford Libraries
 
 #### Panel 2, Text on Maps: What does it mean for research?
-Chair: TBD
-5-10 min from each panelist, followed by discussion with audience
-
-
+- Chair: Julie Sweetkind Singer
+   - Peter Leonard (Library)
+   - Kären Wigen (History)
+   - Nicole Coleman (Library) 
+   - Nora Barakat (History) 
+   - Grant Parker (Classics)
 
 ### Friday 9AM-12PM Building a Developer Community (Invitation only)
 ### David Rumsey Map Center, Stanford Libaries
 The purpose of this session is to identify opportunities and friction points while sketching out the future of an open source project building on the foundations of Machines Reading Maps.
 
-Shape and priorities of the initiative going forward
-Generalizing the pipeline
-Documentation for mapKurator and Annotorious (+ future search code?)
-Futures and priorities for different use cases 
-Batch processing vs one-off/small scale
-How does this become possible for institutions with capacity for development/implementation vs those that do not
-How do we integrate into existing systems for text search?
-What is the relationship between map text datasets and collection/item metadata?
-Using the data in computational research (e.g. using search as pathway to research applications) - facilitating export from library systems or storing versioned data in accessible places
-Licensing/what does community look like around project 
-Community overlaps. Leveraging existing efforts. (GeoBlacklight, IIIF, etc…)
+- Shape and priorities of the initiative going forward
+   - Generalizing the pipeline
+   - Documentation for mapKurator and Annotorious (+ future search code?)
+   - Futures and priorities for different use cases 
+   - Batch processing vs one-off/small scale
+   - How does this become possible for institutions with capacity for development/implementation vs those that do not
+   - How do we integrate into existing systems for text search?
+   - What is the relationship between map text datasets and collection/item metadata?
+   - Using the data in computational research (e.g. using search as pathway to research applications) - facilitating export from library systems or storing versioned data in accessible places
+   - Licensing/what does community look like around project 
+   - Community overlaps. Leveraging existing efforts. (GeoBlacklight, IIIF, etc…)
 
-Opportunities and Friction Points To Date
-Focus on IIIF as endpoint for computational access? Or other infrastructures?
-Multilingual issues, and other collection-specific needs
-Creating feedback loops for model outputs to training data (how to use annotations from a ML perspective)
-Building community around models and datasets as they are created and enriched
-Working with institutions that all have different systems
-is scope ONLY text, or also other map features (linked to text)
-
-
+- Opportunities and Friction Points To Date
+   - Focus on IIIF as endpoint for computational access? Or other infrastructures?
+   - Multilingual issues, and other collection-specific needs
+   - Creating feedback loops for model outputs to training data (how to use annotations from a ML perspective)
+   - Building community around models and datasets as they are created and enriched
+   - Working with institutions that all have different systems
+   - is scope ONLY text, or also other map features (linked to text)
 
 ### Friday 1PM-4PM Building the User Community: Workshop for students and faculty and staff (Registration required)
-### Center for Spatial and Textual Analysis, Conference Room
-Workshop led by MRM team members to introduce key features of the Rumsey search and annotation interfaces, with some additional detail about the underlying dataset generated by mapKurator. 
+At the Center for Spatial and Textual Analysis Conference Room, 4th Floor, Wallenberg Hall
+Search within maps! Visualize and analyze data automatically identified on maps! This hands-on workshop, led by MRM team members, presents the new, experimental features developed by the Machines Reading Maps (MRM) project for the David Rumsey Map Collection (DRMC).
+
+- Part 1 Querying full text of maps
+    - In the first part of the workshop, participants will discover the new kinds of searches and visualizations that are enabled on the DRMC by the application of the mapKurator machine-learning pipeline. Through the discussion of guided paths through the large and diverse Rumsey collection, participants will become familiar with the different kinds of queries that can be run when it is possible to search the maps not just by their title and metadata but their full text.
+
+- Part 2 Analyzing the dataset generated by *mapKurator*
+   - The second half of the workshop, you will learn to navigate the corpus of map text, select a relevant sample, and then interrogate, visualize and compare within an open dataset that has been created by processing circa 60,000 georeferenced maps in the DRMC. The MRM team will guide participants through a computational workflow using simple Jupyter and Observable notebooks.  
+
+NOTE: This workshop does not require any previous computational knowledge, but some familiarity with Jupyter notebooks is welcome.
+Please, bring your own laptop.
 
 
-To make the most of the workshop:
 
-Bring laptop
-Some familiarity with jupyter notebooks helpful, but not required
 
 
