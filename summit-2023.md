@@ -1,6 +1,4 @@
-# Machines Reading Maps Summit!
-## At the David Rumsey Map Center and CESTA at Stanford University
-## April 20-21, 2023
+# Machines Reading Maps Summit! April 20-21, 2023
 
 ###  9AM-12PM Thursday, April 20, Demo for Developers and Stakeholders (Invitation only)
 At the David Rumsey Map Center, Stanford Libaries
