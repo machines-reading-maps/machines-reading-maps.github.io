@@ -59,6 +59,7 @@ We will share code, datasets, and more via this website.
 - Library of Congress (LC)
 
 ### Events
+- April 20-21, 2023 Machines Reading Maps Summit at Stanford University [[Webpage]](https://machines-reading-maps.github.io/summit-2023)
 - [TBA] Public event in partnership with the Library of Congress @ Washington D.C.
 - [TBA] Annotation workshop for the OS200 team
 - [June 6, 2022] 'Reading and Linking Place: Text on Historical Maps' workshop @ UCGIS Symposium '22 [[Webpage]](https://machines-reading-maps.github.io/ucgis2022-workshop) [[Slides]](https://drive.google.com/file/d/1CWNIdYTRl8SoVU5fyLswTETDPX_kqQrq/view?usp=sharing)  
