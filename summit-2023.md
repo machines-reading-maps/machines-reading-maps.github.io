@@ -1,3 +1,6 @@
+---
+layout: page
+---
 
 ![](assets/images/mrm2023.jpg)
 # Machines Reading Maps Summit! April 20-21, 2023
