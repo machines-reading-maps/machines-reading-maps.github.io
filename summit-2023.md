@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 ---
 
 ![](assets/images/mrm2023.jpg)
