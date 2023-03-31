@@ -3,7 +3,7 @@
 # Machines Reading Maps Summit! April 20-21, 2023
 The Machines Reading Maps team will come together at Stanford University for two days of conference events dedicated to charting the future of historical cartography as data. Events will take place (as specified below) at the [David Rumsey Map Center](https://library.stanford.edu/rumsey) within Green Library and at the [Center for Spatial and Textual Analysis (CESTA)](https://cesta.stanford.edu) on the 4th Floor of Wallenberg Hall. 
 
-###  9AM-12PM PT Thursday, April 20, Demo for Developers and Stakeholders (Invitation only)
+###  9AM-12PM PT Thursday, April 20, Demo for Developers and Stakeholders (invitation only)
 **At the David Rumsey Map Center, Stanford Libaries**
 
 This session will introduce different components of the work to potential future stakeholders and developer community members who are interested in re-using these tools in other map collections or for research applications across collections.
@@ -48,13 +48,13 @@ This conference, intended for future users, will address the methods behind the 
    - Nora Barakat (History) 
    - Grant Parker (Classics)
 
-### 9AM-12PM PT Friday, April 21, Building a Developer Community (Invitation only)
+### 9AM-12PM PT Friday, April 21, Building a Developer Community (invitation only)
 **At the David Rumsey Map Center, Stanford Libaries**
 
 The purpose of this session is to identify opportunities and friction points while sketching out the future of an open source project building on the foundations of Machines Reading Maps.
 - Opening remarks by the MRM team
-- Session 1: Shape and priorities of the initiative going forward
-- Session 2: Opportunities and Friction Points To Date
+- Session 1: Shape and Priorities of the Initiative Going Forward
+- Session 2: Opportunities and Friction Points to Date
 
 ### ~ Lunch Break ~
 
