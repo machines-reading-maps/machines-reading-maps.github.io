@@ -6,29 +6,29 @@ layout: default
 # Machines Reading Maps Summit! April 20-21, 2023
 The Machines Reading Maps team will come together at Stanford University for two days of conference events dedicated to charting the future of historical cartography as data. Events will take place (as specified below) at the [David Rumsey Map Center](https://library.stanford.edu/rumsey) within Green Library and at the [Center for Spatial and Textual Analysis (CESTA)](https://cesta.stanford.edu) on the 4th Floor of Wallenberg Hall. 
 
-###  9AM-12PM PT Thursday, April 20, Demo for Developers and Stakeholders (invitation only)
+###  9AM-12PM PT Thursday, April 20, Demo for Developers and Stakeholders (Invitation only)
 **At the David Rumsey Map Center, Stanford Libaries**
 
 This session will introduce different components of the work to potential future stakeholders and developer community members who are interested in re-using these tools in other map collections or for research applications across collections.
 
 #### 9:00 - 10:00
 - Chair: David Rumsey
-   - Demo of search & annotation by Valeria Vitale & David Wong
-   - Why does this matter? by Stace Maples
-   - A history of the project by Katie McDonough
+   - Demo of search & annotation, Valeria Vitale & David Wong
+   - Why does this matter?, Stace Maples
+   - Putting Machines Reading Maps in context, Katie McDonough
 
 ~ Break - refreshments will be served in the Bender Room at Stanford Libraries ~ 
 
 #### 10:30 - 12:00
 - Chair: Nicole Coleman
-   - System and pipeline / Codebase Briefing (Yao-yi)
-   - Annotations (Rainer + Valeria on value of annotations)
-   - Implementing Search
-   - Next Steps (Community, Generalization, etc…)
+   - Yao-Yi Chiang, mapKurator Codebase Briefing
+   - Rainer Simon & Valeria Vitale, Annotation Infrastructure and Value
+   - Drake Zabriskie & David Wong, Implementing Search
+   - Katie McDonough & open discussion, Next Steps
 
 ### ~ Lunch Break ~
 
-### 1PM-4PM PT Thursday, April 20, Presentation of Machines Reading Maps (open to the public)
+### 1PM-4PM PT Thursday, April 20, Presentation of Machines Reading Maps (Open to the public in-person and online, but please [register in advance](https://www.eventbrite.com/e/machines-reading-maps-the-future-of-historical-cartography-as-data-tickets-598074726607)
 **At the David Rumsey Map Center, Stanford Libaries**
 
 This conference, intended for future users, will address the methods behind the data creation and UX as well as the impact the new search and data access will have on research.
@@ -44,14 +44,14 @@ This conference, intended for future users, will address the methods behind the 
 ~ Break - refreshments will be served in the Bender Room at Stanford Libraries ~ 
 
 #### Panel 2, Text on Maps: What does it mean for research?
-- Chair: Julie Sweetkind Singer
-   - Peter Leonard (Library)
+- Chair: Julie Sweetkind-Singer
+   - Peter Leonard (Stanford Libraries)
    - Kären Wigen (History)
-   - Nicole Coleman (Library) 
+   - Nicole Coleman (Stanford Libraries) 
    - Nora Barakat (History) 
    - Grant Parker (Classics)
 
-### 9AM-12PM PT Friday, April 21, Building a Developer Community (invitation only)
+### 9AM-12PM PT Friday, April 21, Building a Developer Community (Invitation only)
 **At the David Rumsey Map Center, Stanford Libaries**
 
 The purpose of this session is to identify opportunities and friction points while sketching out the future of an open source project building on the foundations of Machines Reading Maps.
@@ -64,7 +64,9 @@ The purpose of this session is to identify opportunities and friction points whi
 ### 1PM-4PM PT Friday, April 21, Machines Reading Maps Hands-On Workshop (Registration required, in-person only)
 **At the Center for Spatial and Textual Analysis Conference Room, 4th Floor, Wallenberg Hall**
 
-Search within maps! Visualize and analyze data automatically identified on maps! This hands-on workshop, led by  Machines Reading Maps team members, presents the new, experimental features developed by the Machines Reading Maps project for the David Rumsey Map Collection (DRMC).
+Search within maps! Visualize and analyze data automatically identified on maps! 
+
+This hands-on workshop, led by  Machines Reading Maps team members, presents the new, experimental features developed by the Machines Reading Maps project for the David Rumsey Map Collection (DRMC).
 
 - Part 1 Querying full text of maps
     - In the first part of the workshop, participants will discover the new kinds of searches and visualizations that are enabled on the DRMC by the application of the mapKurator machine-learning pipeline. Through the discussion of guided paths through the large and diverse Rumsey collection, participants will become familiar with the different kinds of queries that can be run when it is possible to search the maps not just by their title and metadata but their full text.
