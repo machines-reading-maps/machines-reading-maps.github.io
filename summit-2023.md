@@ -61,7 +61,7 @@ The purpose of this session is to identify opportunities and friction points whi
 
 ### ~ Lunch Break ~
 
-### 1PM-4PM PT Friday, April 21, Machines Reading Maps Hands-On Workshop (Registration required, in-person only)
+### 1PM-4PM PT Friday, April 21, Machines Reading Maps Hands-On Workshop  (In person only, [register in advance](https://www.eventbrite.com/e/machines-reading-maps-summit-workshop-cesta-search-within-maps-tickets-601561736347))
 **At the Center for Spatial and Textual Analysis Conference Room, 4th Floor, Wallenberg Hall**
 
 Search within maps! Visualize and analyze data automatically identified on maps! 
