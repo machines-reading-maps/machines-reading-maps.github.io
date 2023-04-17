@@ -30,7 +30,7 @@ This session will introduce different components of the work to potential future
 
 ### ~ Lunch Break ~
 
-### 1PM-4PM PT Thursday, April 20, Presentation of Machines Reading Maps (Open to the public in-person and online, but please [register in advance](https://www.eventbrite.com/e/machines-reading-maps-the-future-of-historical-cartography-as-data-tickets-598074726607)
+### 1PM-4PM PT Thursday, April 20, Presentation of Machines Reading Maps (Open to the public in-person and online, but please [register in advance](https://www.eventbrite.com/e/machines-reading-maps-the-future-of-historical-cartography-as-data-tickets-598074726607))
 **At the David Rumsey Map Center, Stanford Libaries**
 
 This conference, intended for future users, will address the methods behind the data creation and UX as well as the impact the new search and data access will have on research.
