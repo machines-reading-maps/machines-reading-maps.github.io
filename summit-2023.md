@@ -6,7 +6,7 @@ layout: default
 # Machines Reading Maps Summit! April 20-21, 2023
 The Machines Reading Maps team will come together at Stanford University for two days of conference events dedicated to charting the future of historical cartography as data. Events will take place (as specified below) at the [David Rumsey Map Center](https://library.stanford.edu/rumsey) within Green Library and at the [Center for Spatial and Textual Analysis (CESTA)](https://cesta.stanford.edu) on the 4th Floor of Wallenberg Hall. 
 
-**For all events, we strongly recommend COVID-19 testing prior and masks during the event. Do attend if you are experiencing symptoms of illness.**
+**For all events, we strongly recommend COVID-19 testing prior and masks during the event. Do not attend if you are experiencing symptoms of illness.**
 
 ###  9AM-12PM PT Thursday, April 20, Demo for Developers and Stakeholders (Invitation only)
 **At the David Rumsey Map Center, Stanford Libaries**
@@ -15,17 +15,17 @@ This session will introduce different components of the work to potential future
 
 #### 9:00 - 10:00
 - Chair: David Rumsey
-   - Demo of search & annotation, Valeria Vitale & David Wong
-   - Why does this matter?, Stace Maples
-   - Putting Machines Reading Maps in context, Katie McDonough
+   - Valeria Vitale (University of Sheffield) & David Wong (Luna Imaging), Demo of Search & Annotation
+   - Stace Maples (Stanford Libraries), Why Does Machines Reading Maps Matter?
+   - Katie McDonough (Lancaster University & The Alan Turing Institute), Putting Machines Reading Maps in Context
 
 ~ Break - refreshments will be served in the Bender Room at Stanford Libraries ~ 
 
 #### 10:30 - 12:00
-- Chair: Nicole Coleman
-   - Yao-Yi Chiang, mapKurator Codebase Briefing
+- Chair: Nicole Coleman (Stanford Libraries)
+   - Leeje Jang (University of Minnesota), mapKurator Codebase Briefing
    - Rainer Simon & Valeria Vitale, Annotation Infrastructure and Value
-   - Drake Zabriskie & David Wong, Implementing Search
+   - Drake Zabriskie (Luna Imaging) & David Wong, Implementing Search
    - Katie McDonough & open discussion, Next Steps
 
 ### ~ Lunch Break ~
@@ -37,7 +37,7 @@ This conference, intended for future users, will address the methods behind the 
 
 #### Panel 1, From Maps to Data and Back Again
 - Chair: David Rumsey
-   - Jina Kim, “The mapKurator System: Extracting and Linking Text from Large Numbers of Historical Map Scans”
+   - Jina Kim (University of Minnesota), “The mapKurator System: Extracting and Linking Text from Large Numbers of Historical Map Scans”
    - Drake Zabriskie and David Wong, “LUNA Annotation Search and Display”
    - Rainer Simon, "Map Annotation Overlay and Crowdsourced Corrections with Annotorious & LUNA"
    - Valeria Vitale, “Discovering and enriching maps through their text”
@@ -46,12 +46,12 @@ This conference, intended for future users, will address the methods behind the 
 ~ Break - refreshments will be served in the Bender Room at Stanford Libraries ~ 
 
 #### Panel 2, Text on Maps: What does it mean for research?
-- Chair: Julie Sweetkind-Singer
+- Chair: Julie Sweetkind-Singer (Stanford Libraries)
    - Peter Leonard (Stanford Libraries)
-   - Kären Wigen (History)
+   - Kären Wigen (History, Stanford University)
    - Nicole Coleman (Stanford Libraries) 
-   - Nora Barakat (History) 
-   - Grant Parker (Classics)
+   - Nora Barakat (History, Stanford University) 
+   - Open Discussion
 
 ### 9AM-12PM PT Friday, April 21, Building a Developer Community (Invitation only)
 **At the David Rumsey Map Center, Stanford Libaries**
